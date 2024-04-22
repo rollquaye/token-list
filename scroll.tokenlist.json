@@ -511,6 +511,18 @@
         "scrollListId": "default",
         "scrollTokenId": "wstETH"
       }
+      },
+    {
+      "chainId": 534353,
+      "address": "0x2DAf22Caf40404ad8ff0Ab1E77F9C08Fef3953e2",
+      "name": "Wrapped  test stETH",
+      "symbol": "wtstETH",
+      "decimals": 18,
+      "logoURI": "https://scroll-tech.github.io/token-list/data/wtstETH/logo.svg",
+      "extensions": {
+        "scrollListId": "default",
+        "scrollTokenId": "wtstETH"
+      }
     }
   ],
   "version": {
